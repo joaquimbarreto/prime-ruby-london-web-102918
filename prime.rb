@@ -1,3 +1,4 @@
 # Add  code here!
-def prime?()
+def prime?(x)
+  
 end
